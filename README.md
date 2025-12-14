@@ -1,4 +1,5 @@
 GitGrade: AI Code Reviewer 🤖🚀
+<img width="1884" height="845" alt="image" src="https://github.com/user-attachments/assets/dc1a1f8e-3c95-46c7-9b92-98b6e464426a" />
 
 GitGrade is an intelligent web application designed to help developers and hackathon judges quickly assess the quality and structure of GitHub repositories. Leveraging the power of Google's Gemini 1.5 Flash AI, it provides an instant, comprehensive audit including a score, executive summary, deep dive analysis, and a personalized roadmap for improvement.
 
