@@ -1,0 +1,5 @@
+{
+  "name": "GitGrade Audit",
+  "description": "An AI-powered GitHub repository auditor that provides tough love, scores, and actionable roadmaps for student developers.",
+  "requestFramePermissions": []
+}
